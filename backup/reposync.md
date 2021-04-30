@@ -2,7 +2,6 @@
 
 ## Why
 
-鉴于lxk0301大佬的分支因为fork过多用于执行actions导致被删，为了防范于未然
 
 麻烦各位**取消掉fork**,通过下面的方法重新创建分支，同步代码
 
@@ -24,7 +23,7 @@
 
 <img src="assets/set_up_workflow.png" alt="set_up_workflow" style="zoom:75%;" />
 
-复制https://gitee.com/shuye72/MyActions/raw/main/.github/workflows/repo-sync.yml 里面的代码
+复制https://cdn.jsdelivr.net/gh/wuzhi03/MyActions@main/.github/workflows/repo-sync.yml 里面的代码
 
 复制完毕后直接点击右上角的`Start commit`后直接`Commit new file`即可
 
